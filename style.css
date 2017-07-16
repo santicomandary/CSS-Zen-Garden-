@@ -1,0 +1,73 @@
+
+h2 {
+  color: white;
+  font-family: Roboto slab;
+  font-style: Bold;
+  text-align:left;
+  white-space: normal;
+  margin-left:100px;
+  }
+
+h3{
+  color: white;
+  font-family: Fresca;
+  font-size: 12px;
+  text-align:right;
+  margin-left: 100px;
+  margin-right: 100px;
+   
+}
+p{
+  color: white;
+  font-size: 15px;
+  line-height: 1.5em;
+  font-family:Oswald;
+  text-align: left;
+  width: 65%;
+  position: right;
+  background-color:;
+  margin-left: 100px;
+  }
+ 
+
+body{
+ background-image:
+   url(https://scontent.fscl7-1.fna.fbcdn.net/v/t1.0-9/20139872_10213876510487762_784788606880778543_n.jpg?oh=52c3f0cf2a1077b55d71b1be6c91e190&oe=5A0CE6DE),
+   url(https://scontent.fscl7-1.fna.fbcdn.net/v/t1.0-9/19989596_10213877320508012_776559489984045493_n.jpg?oh=706653e983e176fc4e72578ec50f9138&oe=59F55189),
+  url(https://scontent.fscl7-1.fna.fbcdn.net/v/t1.0-9/20046630_10213877277386934_6559428859604841731_n.jpg?oh=66d1f199e30a0cfd879fee73a2c2f450&oe=5A11037C);
+
+  
+ background-repeat: repeat, no-repeat, no-repeat;
+ background-blend-mode: multiply, multiply, multiply;
+ background-color: green;
+ background-position:  top, center, bottom;
+   
+}
+
+
+
+.titulo{
+  color: white;
+  font-family: Bitter;
+  font-style:light;
+  font-size: 18px;
+  font-style: normal;
+  text-align: right;
+  background: None;
+  letter-spacing:0.05em;
+   margin-left: 100px;
+  margin-right: 100px;
+  margin-top:70px;
+}
+
+.subtitulo{
+  font-size: 14px;
+  font-family: Roboto Slab;
+  font-style:bold;
+  color: #F6F6E7;
+  text-align:right;
+  margin-left: 100px;
+  margin-right: 100px;
+ 
+}
+
